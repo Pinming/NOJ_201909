@@ -1,7 +1,8 @@
 # NOJ-2019-Pinming
 Question © NWPU   
 Answer © Pinming, All rights reserved.    
-萌新上路，请多关照。求轻喷。   
+萌新上路，请多关照。求轻喷。
+T001-010 就没有截图了……看 code 应该也就知道内容了吧 23333
 
 ### **T011** | 2019/09/24   
 ![T011](http://tva1.sinaimg.cn/large/007X8olVly1g7qw72y52pj31cw0u0jw7.jpg)
@@ -25,3 +26,5 @@ Answer © Pinming, All rights reserved.
 ![T020](http://tva1.sinaimg.cn/large/007X8olVly1g7ueolcch9j31im0pjadn.jpg)
 ### **T021** | 2019/10/11    
 ![T021](http://tva1.sinaimg.cn/large/007X8olVly1g7ueolr8bcj31kb0p5q65.jpg)
+### **T022** | 2019/10/11    
+![T022](http://tva1.sinaimg.cn/large/007X8olVly1g7ufw4bm4lj318c0jvq54.jpg)

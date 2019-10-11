@@ -1,12 +1,19 @@
 # include <iostream>
-# include <cmath>
 # include <iomanip>
+# include <cmath>
 using namespace std;
 int main()
 {
-	 double s=1, pi=0, n=1, t=1;
-  while(fabs(t)>1e-6)
-    pi=pi+t, n=n+2, s=-s, t=s/n;
-  cout << fixed << setprecision(6) << pi*4 << endl;
-  return 0;
+	double i;
+	double sum = 0, j = 0, t, m, a;
+	for (i = 1; i <= 500000.5; i = i+1)
+	{
+		m = pow(-1.0, i - 1);
+		t = 2 * i - 1;
+		a = 1.0 / t;
+		j = m * a;
+		sum = sum + j;
+	}
+	cout << fixed << setprecision(6) << 4 * sum << endl;
+	return 0;
 }
