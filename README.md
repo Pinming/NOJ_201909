@@ -2,7 +2,8 @@
 Question © NWPU   
 Answer © Pinming, All rights reserved.    
 萌新上路，请多关照。求轻喷。
-T001-010 就没有截图了……看 code 应该也就知道内容了吧 23333
+``T001-010`` 就没有截图了……看 code 应该也就知道内容了吧 23333
+部分序号没有连号…… 那当然就是因为我太蔡了 滑稽
 
 ### **T011** | 2019/09/24   
 ![T011](http://tva1.sinaimg.cn/large/007X8olVly1g7qw72y52pj31cw0u0jw7.jpg)
@@ -38,5 +39,24 @@ T001-010 就没有截图了……看 code 应该也就知道内容了吧 23333
 ![T026](http://tva1.sinaimg.cn/large/007X8olVly1g7vwmsykn7j31e90u0gow.jpg)
 ### **T027** | 2019/10/12 
 ![T027](http://tva1.sinaimg.cn/large/007X8olVly1g7vwmediuaj31cs0u042v.jpg)
+### **T028** | 2019/10/15 
+![T028](http://tva1.sinaimg.cn/large/007X8olVly1g82vytiyoxj31jf0u00vw.jpg)
 ### **T029** | 2019/10/13 
 ![T029](http://tva1.sinaimg.cn/large/007X8olVly1g7vwmdp734j31ch0u0jv7.jpg)
+### **T030** | 2019/10/13 
+![T030](http://tva1.sinaimg.cn/large/007X8olVly1g82vyu48opj31jl0tcn0d.jpg)
+### **T031** | 2019/10/13 
+![T031](http://tva1.sinaimg.cn/large/007X8olVly1g82vyui79hj31je0u0ad6.jpg)
+### **T033** | 2019/10/13 
+![T033](http://tva1.sinaimg.cn/large/007X8olVly1g82vyuuoz6j316e0qzad2.jpg)
+### **T034** | 2019/10/15 
+![T034](http://tva1.sinaimg.cn/large/007X8olVly1g82vyv4nykj315o0qhtay.jpg)
+### **T035** | 2019/10/15 
+![T035](http://tva1.sinaimg.cn/large/007X8olVly1g82vyviw1mj316e0sdjva.jpg)
+### **T037** | 2019/10/17 
+![T037](http://tva1.sinaimg.cn/large/007X8olVly1g82vyvwutgj31510rgq58.jpg)
+### **T038** | 2019/10/15 
+![T038](http://tva1.sinaimg.cn/large/007X8olVly1g82vyw8rjcj316a0qt0ur.jpg)
+### **T039** | 2019/10/19 
+![T039](http://tva1.sinaimg.cn/large/007X8olVly1g82vywlw0mj315z0tu0vr.jpg)
+// 28.30.31.33.34.35.37.38.39
