@@ -1,28 +1,29 @@
-# include <iostream>
-using namespace std;
-template <typename T> void sort(T x, T y, T z)
+#include<stdio.h>
+int main()
 {
-	T t;
-	if (x > y) {
-		t = x, x = y, y = t;
+	int a;
+	int ID;
+	int t, n;
+	printf("请输入");
+	scanf("%d", &ID);
+	if (ID = 1)
+	{
+		printf("1.\n2.\n3.\n4.\n5.\n6.\n");
+		scanf("%d", a);
+		if (a == 1)
+		{
+			printf("请在此处输入");
+			scanf("%d", &t);
+			n = t;
+		}
+		switch (t)
+		{
+		case 6:printf("A"); break;
+		case 7:printf("B"); break;
+		case 8:printf("C"); break;
+		default:printf("D"); break;
+		}
+		return 0;
 	}
-	if (x > z) {
-		t = x, x = z, z = t;
-	}
-	if (y > z) {
-		t = y, y = z, z = t;
-	}
-	cout << x << ' ' << y << ' ' << z << endl;
-}
-int main() {
-	int a, b, c;
-	char str[4]; // 避免数组越界
-	double l, m, n;
-	cin >> a >> b >> c;
-	cin >> str;
-	cin >> l >> m >> n;
-	sort(a, b, c);
-	sort(str[0], str[1], str[2]);
-	sort(l, m, n);
-	return 0;
+	else printf("dbq");
 }
